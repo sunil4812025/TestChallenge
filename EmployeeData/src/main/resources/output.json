@@ -1,0 +1,6 @@
+{
+  "id" : 1000,
+  "name" : "Emp1000",
+  "role" : "Director",
+  "reportees" : [ ]
+}
